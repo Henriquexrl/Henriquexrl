@@ -1,16 +1,29 @@
-## Hi there 👋
+👨‍💻 Sobre mim
 
-<!--
-**Henriquexrl/Henriquexrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Estudante de Desenvolvimento de Sistemas, com foco em Python, Backend e Inteligência Artificial.
+Tenho interesse em construir soluções que unam tecnologia e inovação, aplicando boas práticas de programação e explorando conceitos modernos de engenharia de software.
 
-Here are some ideas to get you started:
+Atualmente, estou:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Aprimorando minhas habilidades em desenvolvimento backend.
+
+🤖 Estudando fundamentos e aplicações de IA e Machine Learning.
+
+🐍 Praticando projetos em Python para consolidar conhecimentos.
+
+Meu objetivo é evoluir constantemente como desenvolvedor, contribuindo para projetos que gerem impacto e aprendizado
+
+
+📱 [WhatsApp](https://wa.me/5511954909276)  
+
+✉️ [E-mail](mailto:henriquechacra@gmail.com)  
+
+💼 [LinkedIn](https://www.linkedin.com/in/henriquechacra)
+
+
+
+ 
+
+
+
+
