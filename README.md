@@ -1,17 +1,15 @@
 👨‍💻 Sobre mim
 
-Sou Estudante de Desenvolvimento de Sistemas, com foco em Python, Backend e Inteligência Artificial.
-Tenho interesse em construir soluções que unam tecnologia e inovação, aplicando boas práticas de programação e explorando conceitos modernos de engenharia de software.
+## Olá! 👋 Sou Estudante de Desenvolvimento de Sistemas
+Focado em transformar ideias em código, com um interesse especial nas seguintes áreas:
 
-Atualmente, estou:
+🐍  Backend: Construindo APIs e sistemas robustos com Python.
 
-🚀 Aprimorando minhas habilidades em desenvolvimento backend.
+🤖  Inteligência Artificial: Explorando modelos de Machine Learning para criar soluções inteligentes.
 
-🤖 Estudando fundamentos e aplicações de IA e Machine Learning.
+💡  Boas Práticas: Comprometido com código limpo, testes e arquitetura de software moderna.
 
-🐍 Praticando projetos em Python para consolidar conhecimentos.
-
-Meu objetivo é evoluir constantemente como desenvolvedor, contribuindo para projetos que gerem impacto e aprendizado
+Atualmente aprofundando meus estudos em Análise de Dados, automação de tarefas e na construção de modelos preditivos.
 
 
 📱 [WhatsApp](https://wa.me/5511954909276)  
